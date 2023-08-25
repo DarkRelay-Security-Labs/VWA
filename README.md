@@ -26,18 +26,30 @@ If you have more questions, please write to us via [get-started](https://www.dar
 ## Installation
 Install the msi as an Administrator
 
-## Platorms Supported
+## Platorms Supported and tested
 Windows 10 x64, Windows 2016 and 2019 x64
 
 ## Recommended pentest tools
-Microsoft Sysinternal Tools
-
+- Microsoft Sysinternal Tools
 - Immunity Debugger
 - Symboliclink-testing-tools from Google
 - Echo Mirage
 - Regshot
 - Windows Attack Surface Analyzer
 - mingw compiler c++
+
+## TBD
+
+- Add more vulnerabilities.
+- Add test cases.
+- Add and verify multi platform support.
+
+## Licensing 
+This project is available under the [Apache 2.0 license](./LICENSE).
+
+## Contributing to the project
+Please open a pull request with your changes and drop a mail to [info@darkrelay.com](mailto:info@darkrelay.com) requesting approval.
+
 
 ## Follow Us For More:
 [LinkedIn](https://linkedin.com/company/darkrelay)<br>
