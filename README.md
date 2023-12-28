@@ -1,8 +1,10 @@
 # Vulnerable Windows Application
-Vulnerable Windows Application for Pentesters from the house of [DarkRelay Security Labs](https://www.darkrelay.com/). The project is along the lines of DVWA, AWSGoat and other similar projects, to help the cybersecurity community practise their skills.
+Vulnerable Windows Application for Pentesters from the house of [DarkRelay Security Labs](https://www.darkrelay.com/). The project is along the lines of DVWA, AWSGoat and other similar projects, to help the cybersecurity community practise their skills in thick client penetration testing.
+
+
 
 ## Disclaimer
-Warning! You are about to install DarkRelay's Vulnerable Windows Application! Purpose of the application is to educate students on Windows Thick Client Pentesting. If you use this application for malicious means or if your server is compromised via an installation of this application, DarkRelay does not hold any responsibility! DarkRelay or it's contributors will not be responsible for misuse of this application.
+Warning! You are about to install DarkRelay's Vulnerable Windows Application! Purpose of the application is to educate students on Windows thick client penetration testing. If you use this application for malicious means or if your server is compromised via an installation of this application, DarkRelay does not hold any responsibility! DarkRelay or it's contributors will not be responsible for misuse of this application.
 
 If you have more questions, please write to us via [get-started](https://www.darkrelay.com/get-started) or email us at: [info@darkrelay.com](mailto:info@darkrelay.com)
 
